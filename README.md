@@ -1,7 +1,3 @@
-****
-[TOCM]
-
-[TOC]
 # JAVA DESDE CERO
 ## JDK
 El JDK, o Java Development Kit, es una colección de herramientas de software que se utilizan para desarrollar aplicaciones de Java. El JDK incluye un compilador, un depurador, una máquina virtual Java (JVM) y otras herramientas que se utilizan para crear, probar y ejecutar aplicaciones de Java.
